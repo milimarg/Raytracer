@@ -123,9 +123,11 @@
 
 ![PhongReflectionModelAdvancedDenoised](https://mess.flguitt.com/RaytracerRenders/could/light/phong/advanced_output_denoiser_balls.png)
 
+<!---
 #### Advanced, Denoised & Upscaled
 
 ![PhongReflectionModelAdvancedDenoised](https://mess.flguitt.com/RaytracerRenders/could/light/phong/upscaled_advanced_output_denoiser_balls.png)
+--->
 
 ## Could (Materials)
 
@@ -133,9 +135,11 @@
 
 ![Transparency](https://mess.flguitt.com/RaytracerRenders/could/material/material_transp.jpeg)
 
+<!---
 #### Upscaled
 
 ![TransparencyUpscaled](https://mess.flguitt.com/RaytracerRenders/could/material/upscaled_material_transp.png)
+--->
 
 ### Refraction
 
@@ -168,9 +172,11 @@
 
 ![NormalMapping](https://mess.flguitt.com/RaytracerRenders/could/material/normal_mapping/normal_mapping_textured.jpeg)
 
+<!---
 #### With Normal Mapping, Texture & Upscaled
 
 ![NormalMappingUpscaled](https://mess.flguitt.com/RaytracerRenders/could/material/normal_mapping/upscaled_normal_mapping_textured.png)
+--->
 
 #### With Normal Mapping and colors
 
@@ -182,9 +188,11 @@
 
 ![CylinderCone](https://mess.flguitt.com/RaytracerRenders/bonus/Cylinder_Cone.jpeg)
 
+<!---
 #### Upscaled
 
 ![CylinderConeUpscaled](https://mess.flguitt.com/RaytracerRenders/bonus/upscaled_Cylinder_Cone.png)
+--->
 
 ### Mask
 
