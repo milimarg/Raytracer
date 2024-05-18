@@ -1,0 +1,42 @@
+/*
+** EPITECH PROJECT, 2024
+** B-OOP-400-STG-4-1-raytracer-florent.guittre
+** File description:
+** ILibraryHandler
+*/
+
+#ifndef ILIBRARYHANDLER_HPP_
+    #define ILIBRARYHANDLER_HPP_
+    #include <string>
+    #include <dlfcn.h>
+    #include <iostream>
+
+namespace rtx
+{
+    /**
+     * ILibraryHandler Class
+     */
+    class ILibraryHandler {
+        public:
+            virtual ~ILibraryHandler() = default;
+
+            /**
+             *
+             * @return is the library still opened?
+             */
+            virtual bool isOpen() const = 0;
+
+            /**
+             *
+             * @return last thrown error by dlerror()
+             */
+            virtual std::string getLastError() const = 0;
+
+            /**
+             * Closes the lib
+             */
+            virtual void close() = 0;
+    };
+}
+
+#endif /* !ILIBRARYHANDLER_HPP_ */

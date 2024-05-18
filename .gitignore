@@ -1,0 +1,10 @@
+.idea
+.vscode
+vgcore*
+*.out
+*.o
+*.log
+raytracer
+image.ppm
+image.png
+*.so
