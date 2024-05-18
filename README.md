@@ -132,3 +132,7 @@ The project includes two plugins: LowResFilter and MedianFilter. You can build t
 ## Renders
 
 [Renders](./RENDERS.md)
+
+## Mark
+
+59.5 / 59.5 (100%)
