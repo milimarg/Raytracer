@@ -136,3 +136,9 @@ The project includes two plugins: LowResFilter and MedianFilter. You can build t
 ## Mark
 
 59.5 / 59.5 (100%)
+
+## Credits
+
+[Augustin GROSNON](https://github.com/augustin-grosnon) \
+[Noé TRITSCH](https://github.com/NeonMagique) \
+[Florent GUITTRE](https://github.com/milimarg)
